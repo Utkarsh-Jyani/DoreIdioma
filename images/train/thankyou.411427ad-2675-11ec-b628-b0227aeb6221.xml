@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>thankyou.411427ad-2675-11ec-b628-b0227aeb6221.jpg</filename>
+	<path>C:\Users\utkar\TensorFlow Object Detection\TFODCourse\Tensorflow\workspace\images\train\thankyou.411427ad-2675-11ec-b628-b0227aeb6221.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thankyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>331</ymin>
+			<xmax>454</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

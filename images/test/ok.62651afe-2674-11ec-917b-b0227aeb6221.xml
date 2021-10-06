@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>ok.62651afe-2674-11ec-917b-b0227aeb6221.jpg</filename>
+	<path>C:\Users\utkar\TensorFlow Object Detection\TFODCourse\Tensorflow\workspace\images\test\ok.62651afe-2674-11ec-917b-b0227aeb6221.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ok</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>285</ymin>
+			<xmax>443</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>
